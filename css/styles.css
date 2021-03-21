@@ -1,0 +1,29 @@
+body {
+  margin-top: 30px;
+  background-color: bisque;
+  color: brown;
+}
+
+h1 {
+  text-align: center;
+  margin-bottom: 30px;
+}
+
+.navigation-links {
+  display: flex;
+  margin-top: 40px;
+  justify-content: center;
+}
+
+.navigation-links a {
+  margin: 15px;
+  text-decoration: none;
+  padding: 6px 10px;
+  border-radius: 4px;
+  background-color: brown;
+  color: bisque;
+}
+
+.lg-img {
+  max-width: 600px;
+}
